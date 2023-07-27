@@ -1,0 +1,12 @@
+Put Work Files here!
+
+
+1. Set up Web App
+ - Must be JS compatable
+ - Flask!
+ - Ask for Help!
+2. Fetch Web3.js
+3. NPM - Plz =]
+
+Set up Boot Camp!!
+No ONE will make it >=]
