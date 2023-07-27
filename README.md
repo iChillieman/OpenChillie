@@ -3,11 +3,11 @@ Hello =]
 Rules:
 1. KEEP YOUR OWN FOLDER!!
 
-You must create your OWN README.md File!!
- - This is your first task!
+Your first task is:
+ - Create your OWN README.md File!!
  
 Example:
-Chillieman Would host his README.md in the OpenChillie/Chillieman Directory!
+Chillieman hosts his README.md in the OpenChillie/Chillieman Directory!
  
 -----
 
